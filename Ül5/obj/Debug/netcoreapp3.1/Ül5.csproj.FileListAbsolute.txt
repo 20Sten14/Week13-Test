@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Titpe21\Week13-Test\Ül5\bin\Debug\netcoreapp3.1\Ül5.exe
+C:\Users\opilane\source\repos\Titpe21\Week13-Test\Ül5\bin\Debug\netcoreapp3.1\Ül5.deps.json
+C:\Users\opilane\source\repos\Titpe21\Week13-Test\Ül5\bin\Debug\netcoreapp3.1\Ül5.runtimeconfig.json
+C:\Users\opilane\source\repos\Titpe21\Week13-Test\Ül5\bin\Debug\netcoreapp3.1\Ül5.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Titpe21\Week13-Test\Ül5\bin\Debug\netcoreapp3.1\Ül5.dll
+C:\Users\opilane\source\repos\Titpe21\Week13-Test\Ül5\bin\Debug\netcoreapp3.1\Ül5.pdb
+C:\Users\opilane\source\repos\Titpe21\Week13-Test\Ül5\obj\Debug\netcoreapp3.1\Ül5.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Titpe21\Week13-Test\Ül5\obj\Debug\netcoreapp3.1\Ül5.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Titpe21\Week13-Test\Ül5\obj\Debug\netcoreapp3.1\Ül5.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Titpe21\Week13-Test\Ül5\obj\Debug\netcoreapp3.1\Ül5.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Titpe21\Week13-Test\Ül5\obj\Debug\netcoreapp3.1\Ül5.dll
+C:\Users\opilane\source\repos\Titpe21\Week13-Test\Ül5\obj\Debug\netcoreapp3.1\Ül5.pdb
+C:\Users\opilane\source\repos\Titpe21\Week13-Test\Ül5\obj\Debug\netcoreapp3.1\Ül5.genruntimeconfig.cache
